@@ -1,0 +1,3 @@
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Solar_Data_Acqusition\CLRData\x64\Debug\CLRData.vcxprojAssemblyReference.cache
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Solar_Data_Acqusition\CLRData\x64\Debug\CLRData.MyForm.resources
+C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Solar_Data_Acqusition\CLRData\x64\Debug\CLRData.vcxproj.GenerateResource.cache

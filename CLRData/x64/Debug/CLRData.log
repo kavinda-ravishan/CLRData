@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  CLRData.cpp
+  MyForm.cpp
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CLRData.vcxproj -> C:\Users\Kavinda Ravishan\source\repos\kavinda-ravishan\Solar_Data_Acqusition\x64\Debug\CLRData.exe
